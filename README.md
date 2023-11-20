@@ -32,11 +32,14 @@
 
 ## Input:
 
+![EMOP10](https://github.com/Jayamani25/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/85949888/3ce7ccf9-8ea2-4627-80bf-195e0187dc82)
+
 ### Output:
+![EMP 101](https://github.com/Jayamani25/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/85949888/fab33a4b-7921-467b-9ac5-b97961116c87)
 
 
-### Name:
-### Register Number:
+### Name: MOHAMED AZEEM N
+### Register Number: 212222110026
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
